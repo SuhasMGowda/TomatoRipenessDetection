@@ -1,0 +1,11 @@
+names:
+  - b_fully_ripened
+  - b_half_ripened
+  - b_green
+  - l_fully_ripened
+  - l_half_ripened
+  - l_green
+nc: 6
+path: C:/Users/ACER/Desktop/Suhas/College/Main Project/tomato_dataset
+train: C:/Users/ACER/Desktop/Suhas/College/Main Project/tomato_dataset/train/images
+val: C:/Users/ACER/Desktop/Suhas/College/Main Project/tomato_dataset/val/images
